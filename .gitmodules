@@ -1,0 +1,6 @@
+[submodule "LibreOffice"]
+	path = LibreOffice
+	url = https://github.com/LibreOffice/core.git
+[submodule "glabels-qt"]
+	path = glabels-qt
+	url = https://github.com/j-evins/glabels-qt.git
