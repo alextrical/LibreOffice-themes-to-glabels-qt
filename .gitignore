@@ -1,0 +1,71 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Package / tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+
+# Type checker / test artifacts
+.pyre/
+.hypothesis/
+
+# Notebook
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+*.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python packaging / installer
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter / IPython
+profile_default/
+ipython_config.py
+
+# Optional project-specific
+logs/
+tmp/
+temp/
