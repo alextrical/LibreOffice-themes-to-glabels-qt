@@ -28,4 +28,9 @@ for theme in "${themes[@]}"; do
   --comment "gLabels ${theme%%_dark} icon theme (${mode})" \
   --csv libreoffice_icon_table_${theme%%_dark}.csv \
   -o ./build/${theme}/index.theme
+
+  files=(COPYING COPYING-ICONS Copyrights LICENSE LICENSE.GPL AUTHORS)
+  for f in "${files[@]}"; do
+    [[ -e "./LibreOffice/icon-themes/${theme}_svg/$f" ]] && cp "./LibreOffice/icon-themes/${theme}_svg/$f" "./build/${theme}" || continue
+  done
 done
