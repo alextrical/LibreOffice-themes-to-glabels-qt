@@ -69,3 +69,6 @@ ipython_config.py
 logs/
 tmp/
 temp/
+
+# Misc
+.~lock.*.csv#

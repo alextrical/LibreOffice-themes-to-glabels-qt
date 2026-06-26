@@ -17,7 +17,7 @@ themes=(
 for theme in "${themes[@]}"; do
   python resize_svg_icons.py \
     "./LibreOffice/icon-themes/${theme}_svg" \
-    "./icon_table_${theme%%_dark}.csv" \
+    "./libreoffice_icon_table_${theme%%_dark}.csv" \
     "./build/${theme}"
 
   mode="light"
@@ -26,6 +26,6 @@ for theme in "${themes[@]}"; do
   python3 generate_theme.py \
   --name ${theme} \
   --comment "gLabels ${theme%%_dark} icon theme (${mode})" \
-  --csv icon_table_${theme%%_dark}.csv \
+  --csv libreoffice_icon_table_${theme%%_dark}.csv \
   -o ./build/${theme}/index.theme
 done

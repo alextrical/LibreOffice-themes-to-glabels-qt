@@ -4,3 +4,9 @@
 [submodule "glabels-qt"]
 	path = glabels-qt
 	url = https://github.com/j-evins/glabels-qt.git
+[submodule "breeze-icons"]
+	path = freedesktop/breeze-icons
+	url = https://github.com/KDE/breeze-icons
+[submodule "oxygen-icons"]
+	path = freedesktop/oxygen-icons
+	url = https://github.com/KDE/oxygen-icons

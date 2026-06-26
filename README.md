@@ -19,13 +19,14 @@ This repository contains scripts that resize SVG icons, apply optional rotation,
 - `generate_theme.py` — creates `index.theme` files from CSV input.
 - `icon_table_*.csv` — per-theme icon mapping and canvas metadata.
 - `LibreOffice/icon-themes/` — source SVG theme assets.
+- `freedesktop/` — source SVG theme assets.
 - `build/` — generated output themes.
 
 ## Requirements
 
 - Python 3.10+
 - Bash
-- SVG source assets from LibreOffice icon themes
+- SVG source assets from LibreOffice or freedesktop icon themes
 - CSV input files describing the output layout
 
 ## Usage
@@ -33,4 +34,5 @@ This repository contains scripts that resize SVG icons, apply optional rotation,
 Run the full build:
 
 ```bash
-./convert_themes.sh
+./convert_libreoffice_themes.sh
+```

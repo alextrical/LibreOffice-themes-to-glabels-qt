@@ -8,7 +8,7 @@ cmd/sc_alignup.svg,glabels-align-top.svg,16x16/actions,16,16,0
 cmd/sc_alignmiddle.svg,glabels-align-vcenter.svg,16x16/actions,16,16,0
 cmd/sc_selectobject.svg,glabels-arrow.svg,16x16/actions,16,16,0
 ../../../glabels-qt/glabels/icons/glabels-flat/16x16/actions/glabels-barcode.svg,glabels-barcode.svg,16x16/actions,16,16,0
-cmd/sc_square_unfilled.svg,glabels-box.svg,16x16/actions,16,16,0
+cmd/sc_square.svg,glabels-box.svg,16x16/actions,16,16,0
 cmd/sc_alignverticalcenter.svg,glabels-center-horiz.svg,16x16/actions,16,16,90
 cmd/sc_alignverticalcenter.svg,glabels-center-vert.svg,16x16/actions,16,16,0
 ../../../glabels-qt/glabels/icons/glabels-flat/16x16/actions/glabels-center.svg,glabels-center.svg,16x16/actions,16,16,0
@@ -16,7 +16,7 @@ cmd/sc_librelogo-clearscreen.svg,glabels-edit-clear.svg,16x16/actions,16,16,0
 cmd/sc_copy.svg,glabels-edit-copy.svg,16x16/actions,16,16,0
 cmd/sc_cut.svg,glabels-edit-cut.svg,16x16/actions,16,16,0
 cmd/sc_paste.svg,glabels-edit-paste.svg,16x16/actions,16,16,0
-cmd/sc_ellipse_unfilled.svg,glabels-ellipse.svg,16x16/actions,16,16,0
+cmd/sc_circle.svg,glabels-ellipse.svg,16x16/actions,16,16,0
 cmd/sc_newdoc.svg,glabels-file-new.svg,16x16/actions,16,16,0
 cmd/sc_open.svg,glabels-file-open.svg,16x16/actions,16,16,0
 cmd/sc_recentfilelist.svg,glabels-file-recent.svg,16x16/actions,16,16,0
@@ -41,11 +41,11 @@ cmd/lc_alignleft.svg,glabels-align-text-left.svg,22x22/actions,22,22,0
 cmd/lc_alignright.svg,glabels-align-text-right.svg,22x22/actions,22,22,0
 cmd/lc_selectobject.svg,glabels-arrow.svg,22x22/actions,22,22,0
 ../../../glabels-qt/glabels/icons/glabels-flat/22x22/actions/glabels-barcode.svg,glabels-barcode.svg,22x22/actions,22,22,0
-cmd/lc_square_unfilled.svg,glabels-box.svg,22x22/actions,22,22,0
+cmd/lc_square.svg,glabels-box.svg,22x22/actions,22,22,0
 cmd/lc_copy.svg,glabels-edit-copy.svg,22x22/actions,22,22,0
 cmd/lc_cut.svg,glabels-edit-cut.svg,22x22/actions,22,22,0
 cmd/lc_paste.svg,glabels-edit-paste.svg,22x22/actions,22,22,0
-cmd/lc_ellipse_unfilled.svg,glabels-ellipse.svg,22x22/actions,22,22,0
+cmd/lc_circle.svg,glabels-ellipse.svg,22x22/actions,22,22,0
 cmd/lc_newdoc.svg,glabels-file-new.svg,22x22/actions,22,22,0
 cmd/lc_open.svg,glabels-file-open.svg,22x22/actions,22,22,0
 cmd/lc_recentfilelist.svg,glabels-file-recent.svg,22x22/actions,22,22,0
@@ -72,11 +72,11 @@ cmd/lc_alignleft.svg,glabels-align-text-left.svg,24x24/actions,24,24,0
 cmd/lc_alignright.svg,glabels-align-text-right.svg,24x24/actions,24,24,0
 cmd/lc_selectobject.svg,glabels-arrow.svg,24x24/actions,24,24,0
 ../../../glabels-qt/glabels/icons/glabels-flat/24x24/actions/glabels-barcode.svg,glabels-barcode.svg,24x24/actions,24,24,0
-cmd/lc_square_unfilled.svg,glabels-box.svg,24x24/actions,24,24,0
+cmd/lc_square.svg,glabels-box.svg,24x24/actions,24,24,0
 cmd/lc_copy.svg,glabels-edit-copy.svg,24x24/actions,24,24,0
 cmd/lc_cut.svg,glabels-edit-cut.svg,24x24/actions,24,24,0
 cmd/lc_paste.svg,glabels-edit-paste.svg,24x24/actions,24,24,0
-cmd/lc_ellipse_unfilled.svg,glabels-ellipse.svg,24x24/actions,24,24,0
+cmd/lc_circle.svg,glabels-ellipse.svg,24x24/actions,24,24,0
 cmd/lc_newdoc.svg,glabels-file-new.svg,24x24/actions,24,24,0
 cmd/lc_open.svg,glabels-file-open.svg,24x24/actions,24,24,0
 cmd/lc_recentfilelist.svg,glabels-file-recent.svg,24x24/actions,24,24,0
