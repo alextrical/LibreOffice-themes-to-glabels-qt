@@ -16,7 +16,7 @@ cmd/sc_librelogo-clearscreen.svg,glabels-edit-clear.svg,16x16/actions,16,16,0
 cmd/sc_copy.svg,glabels-edit-copy.svg,16x16/actions,16,16,0
 cmd/sc_cut.svg,glabels-edit-cut.svg,16x16/actions,16,16,0
 cmd/sc_paste.svg,glabels-edit-paste.svg,16x16/actions,16,16,0
-cmd/sc_circle.svg,glabels-ellipse.svg,16x16/actions,16,16,0
+cmd/sc_basicshapes.circle.svg,glabels-ellipse.svg,16x16/actions,16,16,0
 cmd/sc_newdoc.svg,glabels-file-new.svg,16x16/actions,16,16,0
 cmd/sc_open.svg,glabels-file-open.svg,16x16/actions,16,16,0
 cmd/sc_recentfilelist.svg,glabels-file-recent.svg,16x16/actions,16,16,0
@@ -32,7 +32,7 @@ cmd/sc_rotateleft.svg,glabels-rotate-left.svg,16x16/actions,16,16,0
 cmd/sc_rotateright.svg,glabels-rotate-right.svg,16x16/actions,16,16,0
 cmd/sc_text.svg,glabels-text.svg,16x16/actions,16,16,0
 cmd/sc_zoomin.svg,glabels-zoom-in.svg,16x16/actions,16,16,0
-cmd/sc_zoomoptimal.svg,glabels-zoom-one-to-one.svg,16x16/actions,16,16,0
+cmd/sc_zoom100percent.svg,glabels-zoom-one-to-one.svg,16x16/actions,16,16,0
 cmd/sc_zoomout.svg,glabels-zoom-out.svg,16x16/actions,16,16,0
 cmd/sc_zoompage.svg,glabels-zoom-to-fit.svg,16x16/actions,16,16,0
 ../../../glabels-qt/glabels/icons/glabels-flat/16x16/apps/glabels.svg,glabels.svg,16x16/apps,16,16,0
@@ -45,7 +45,7 @@ cmd/lc_square_unfilled.svg,glabels-box.svg,22x22/actions,22,22,0
 cmd/lc_copy.svg,glabels-edit-copy.svg,22x22/actions,22,22,0
 cmd/lc_cut.svg,glabels-edit-cut.svg,22x22/actions,22,22,0
 cmd/lc_paste.svg,glabels-edit-paste.svg,22x22/actions,22,22,0
-cmd/lc_circle.svg,glabels-ellipse.svg,22x22/actions,22,22,0
+cmd/lc_basicshapes.circle.svg,glabels-ellipse.svg,22x22/actions,22,22,0
 cmd/lc_newdoc.svg,glabels-file-new.svg,22x22/actions,22,22,0
 cmd/lc_open.svg,glabels-file-open.svg,22x22/actions,22,22,0
 cmd/lc_recentfilelist.svg,glabels-file-recent.svg,22x22/actions,22,22,0
@@ -63,7 +63,7 @@ cmd/lc_aligntop.svg,glabels-valign-text-top.svg,22x22/actions,22,22,0
 cmd/lc_dbviewtables.svg,glabels-view-grid.svg,22x22/actions,22,22,0
 cmd/lc_defaultbullet.svg,glabels-view-list.svg,22x22/actions,22,22,0
 cmd/lc_zoomin.svg,glabels-zoom-in.svg,22x22/actions,22,22,0
-cmd/lc_zoomoptimal.svg,glabels-zoom-one-to-one.svg,22x22/actions,22,22,0
+cmd/lc_zoom100percent.svg,glabels-zoom-one-to-one.svg,22x22/actions,22,22,0
 cmd/lc_zoomout.svg,glabels-zoom-out.svg,22x22/actions,22,22,0
 cmd/lc_zoompage.svg,glabels-zoom-to-fit.svg,22x22/actions,22,22,0
 ../../../glabels-qt/glabels/icons/glabels-flat/22x22/apps/glabels.svg,glabels.svg,22x22/apps,22,22,0
@@ -76,7 +76,7 @@ cmd/lc_square_unfilled.svg,glabels-box.svg,24x24/actions,24,24,0
 cmd/lc_copy.svg,glabels-edit-copy.svg,24x24/actions,24,24,0
 cmd/lc_cut.svg,glabels-edit-cut.svg,24x24/actions,24,24,0
 cmd/lc_paste.svg,glabels-edit-paste.svg,24x24/actions,24,24,0
-cmd/lc_circle.svg,glabels-ellipse.svg,24x24/actions,24,24,0
+cmd/lc_basicshapes.circle.svg,glabels-ellipse.svg,24x24/actions,24,24,0
 cmd/lc_newdoc.svg,glabels-file-new.svg,24x24/actions,24,24,0
 cmd/lc_open.svg,glabels-file-open.svg,24x24/actions,24,24,0
 cmd/lc_recentfilelist.svg,glabels-file-recent.svg,24x24/actions,24,24,0
